@@ -50,7 +50,7 @@ Stockfish binaries and model weights are not included in the repository.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ilcranberry/hacktober_fest.git
+git clone https://github.com/cranbe2ry/hacktober_fest.git
 cd hacktober_fest
 ```
 
